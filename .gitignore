@@ -1,5 +1,4 @@
+.gitignore
 .pio
 .vscode
 platformio.ini
-
-
