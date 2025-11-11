@@ -1,7 +1,18 @@
 # EMC-Robot
 ## Description
 
-![Robot in Action](media/Robot-EMC-GIF.gif)
+
+<p align="center">
+  <video
+    src="media/Robot-EMC-GIF.mp4"
+    width="720"
+    autoplay
+    loop
+    muted
+    playsinline
+  >
+  </video>
+</p>
 
 EMC-Robot is a soccer robot created during the 2025 ENSAM Makers' Competiton.
 
@@ -18,7 +29,27 @@ The project structure is organized as follows:
 
 ## Videos
 Goaaaal!
-![Goal](media/Vid-1.gif)
+<p align="center">
+  <video
+    src="media/Vid-1.mp4"
+    width="720"
+    autoplay
+    loop
+    muted
+    playsinline
+  >
+  </video>
+</p>
 
 Celebration haha
-![Goal](media/Vid-2.gif)
+<p align="center">
+  <video
+    src="media/Vid-2.mp4"
+    width="720"
+    autoplay
+    loop
+    muted
+    playsinline
+  >
+  </video>
+</p>
