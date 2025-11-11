@@ -4,7 +4,7 @@
 
 <p align="center">
   <video
-    src="media/Robot-EMC-GIF.mp4"
+    src="./media/Robot-EMC-GIF.mp4"
     width="720"
     autoplay
     loop
@@ -31,7 +31,7 @@ The project structure is organized as follows:
 Goaaaal!
 <p align="center">
   <video
-    src="media/Vid-1.mp4"
+    src="./media/Vid-1.mp4"
     width="720"
     autoplay
     loop
@@ -44,7 +44,7 @@ Goaaaal!
 Celebration haha
 <p align="center">
   <video
-    src="media/Vid-2.mp4"
+    src="./media/Vid-2.mp4"
     width="720"
     autoplay
     loop
