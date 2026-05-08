@@ -1,26 +1,32 @@
 # EMC-Robot
+
 ## Description
 
+<video src="media/o1.mp4" controls autoplay muted loop></video>
 
-![Robot in Action](media/Robot.gif)
+EMC-Robot is a soccer robot created for the 2025 ENSAM Makers' Competition.
 
-EMC-Robot is a soccer robot created during the 2025 ENSAM Makers' Competiton.
+I served as a **judge** for this exact same competition, and this robot was built as a showcase to demonstrate to the participants what was possible — a reference design illustrating the level of craft, engineering, and polish achievable within the scope of the contest.
 
-The robot has been designed with Catia, 3d printed with Bambulab 3d printer (The render is done using Keyshot).
+![Competition](media/competition_image.png)
 
-It uses an esp32 programmed in C to acheive bluetooth connectivity with a mobile device for control.
+The robot was designed in Catia, 3D printed on a Bambulab printer, and rendered using Keyshot. It runs on an ESP32 programmed in C, providing Bluetooth connectivity for control from a mobile device.
+
+![Render](media/wprof.png)
 
 ## Project Structure
 
-The project structure is organized as follows:
+The project is organized as follows:
 
-- `/src`: Contains all the source code for the robot's functionality.
-- `/CAD Files`: Contains all CAD files
+- `/src` — source code for the robot's functionality
+- `/CAD Files` — all CAD files
 
 ## Videos
-Goaaaal!
-![Goal](media/Vid1.gif)
 
+**Goaaaal!**
 
-Celebration haha
-![Goal](media/Vid2.gif)
+<video src="media/o2.mp4" controls autoplay muted loop></video>
+
+**Celebration haha**
+
+<video src="media/o3.mp4" controls autoplay muted loop></video>
