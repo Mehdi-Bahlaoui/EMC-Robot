@@ -21,12 +21,6 @@ The project is organized as follows:
 - `/src` — source code for the robot's functionality
 - `/CAD Files` — all CAD files
 
-## Videos
-
-**Celebration haha**
-
-<video src="https://github.com/user-attachments/assets/5efc0e7e-86c2-4497-bc84-1ae733fe41c0" controls muted loop></video>
-
-**Goaaaal!**
+## Goaaaal!
 
 <video src="https://github.com/user-attachments/assets/92b85d72-56ad-4aee-be99-42d17393f8eb" controls autoplay muted loop></video>
